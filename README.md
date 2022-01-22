@@ -1,2 +1,1 @@
-"# sql-practice" 
-solved SQL exercises from various sources 2
+Solved SQL exercises from various sources
